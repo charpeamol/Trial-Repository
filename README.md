@@ -1,2 +1,2 @@
 # Trial-Repository
-# Microverse Trial Michel and Amol
+# Microverse Trial Amol and Richard
